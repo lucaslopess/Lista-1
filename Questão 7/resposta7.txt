@@ -1,0 +1,1 @@
+Herança é referente a reutilização de código, onde a classe que herda recebe as caracteristicas da super classe e a composição é refente ao que compõe a classe, exemplo: o trem  TEM-UM vagão e uma locomotiva.

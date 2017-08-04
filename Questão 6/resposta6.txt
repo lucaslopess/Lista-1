@@ -1,0 +1,2 @@
+Classes abstratas são classes que englobam objetos de um tipo, exemplo cachorro, gato são objetos do tipo Animal, não podem ser instanciadas. Já a interface ela especifica metodos que deveram ser implementados pelas classes que implementam a interface.
+Usamos Interface quando é necessario que a classe herde e implemente todos os metodos(é como assinar um contrato, deve ser implementado), na abstrata é possivel decidir quais metodos vão ser implementados.  

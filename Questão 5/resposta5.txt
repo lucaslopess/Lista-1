@@ -1,0 +1,1 @@
+A diferença é que na sobreescrita é herdado um método, no qual, haverá uma alteração no corpo do metodo para que exista uma especialização do metodo dentro dessa classe. E na sobrecarga o metodo é alterado para receber outros argumentos ou outras saidas, basicamente o metodo é alterado para receber novos argumentos. 
